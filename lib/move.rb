@@ -14,4 +14,3 @@ end
 def move(board, index, character)
   board[index] = character
 end
-move(board, 0, "x")
